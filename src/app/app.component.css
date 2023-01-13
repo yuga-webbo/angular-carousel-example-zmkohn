@@ -1,0 +1,11 @@
+p, h1 {
+  font-family: Lato;
+}
+
+carousel {
+  height: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
